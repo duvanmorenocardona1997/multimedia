@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1e9700",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Sensor",
+        "dirección": "Calle 13B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53694152832031,
+          3.436658158559092
+        ]
+      }
+    }
+  ]
+}
